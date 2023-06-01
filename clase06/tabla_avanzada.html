@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ejercicio uso de thead, tbody y tfoot</title>
+</head>
+<body>
+    <table border="1">
+        <caption>lista de compras</caption>
+        <tfoot>
+        <thead style="background-color: blue;color: rgb(248, 245, 250);">
+            <tr>
+                <th>productos</th>
+                <th>cantidad</th>
+                <th>precio</th>
+            </tr>
+        </thead>
+        </tfoot>
+        <tbody style="background-color: aquamarine;color: azure;">
+            <tr>
+                <td>destornillador</td>
+                <td>1</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>llave inglesa</td>
+                <td>2</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>martillo</td>
+                <td>1</td>
+                <td>7</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="2">total</td>
+                <td>20</td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>
