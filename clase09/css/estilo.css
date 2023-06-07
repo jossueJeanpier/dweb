@@ -1,0 +1,21 @@
+/* selector{  proiedad:valor;  }*/
+p{
+    color: #adff2f;
+ }
+ h1{
+    color: blue;
+    text-decoration-line: underline;
+    text-align: center;
+ }
+ letra{
+   color: blue;
+   font-weight: bold;
+   font-size: 30px;
+ }
+ span.letra2{
+   color: blue;
+   font-size: 8px;
+ }
+  span.letra2{
+    color: olive;
+  }
