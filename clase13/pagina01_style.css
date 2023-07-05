@@ -1,0 +1,31 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+  @font-face{
+    font-family:'Dancing Script';
+    src: url('..//clase13/fuente/Alegreya-Italic-VariableFont_wght.ttf') format(truetype)
+  }
+  @font-face{
+    font-family: 'Brewery';
+    src:url('..//clase13/fuente/Pacifico-Regular.ttf format') format('truetype') 
+  }
+#titulo1 {
+    text-shadow: 5px 5px 5px #9c3030;
+    font-family: 'Courier New', Courier, monospace;
+    }
+    #titulo2 {
+    text-shadow: -5px -5px 5px #a89c2b;
+    font-family: 'robor', sans-serif;
+    }
+    #titulo3 {
+    text-shadow: 3px 3px 5px #f00,
+    6px 6px 5px #0f0,
+    9px 9px 5px #00f;
+    font-family: 'caprasimo',cursive;
+    }
+    h1 {
+    font-size:50px;
+    }
+    body {
+    background:white;
+    margin:20px;
+    }
