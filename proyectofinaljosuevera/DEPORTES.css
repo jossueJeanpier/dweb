@@ -1,0 +1,18 @@
+.mostrar{
+    background-color:beige;
+    margin-top: auto;
+    text-align:left;
+}
+div h1{
+    background-color: rgb(231, 158, 21);
+    text-shadow: 3px 3px 5px rgb(96, 144, 0),
+    6px 6px 5px rgb(248, 3, 248),
+    9px 9px 5px #00f;
+    text-align: center;
+}
+.diseño{
+    text-align: center;
+    color: rgb(214, 8, 241);
+    background-color: rgb(44, 226, 27);
+    margin-top: 150px;
+}
